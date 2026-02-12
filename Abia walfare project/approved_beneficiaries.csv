@@ -1,0 +1,49 @@
+citizen_id,first_name,last_name,date_of_birth,nin,state_of_origin,lga,ward,fingerprint_hash,face_hash,bank_account,bvn,payment_status,age,is_abia,is_60_plus,duplicate_fingerprint,duplicate_bank,fraud_flag,eligible
+35112,Ifeoma,Obi,1951-02-25,72624731781,Abia,Ohafia,Ward 1,598972759,572669408,6752895392,3863383928,Pending,75,True,True,False,False,False,True
+36772,Amaka,Nwosu,1951-09-12,46247510799,Abia,Umuahia North,Ward 2,993664919,102235000,3315410067,3684577600,Pending,74,True,True,False,False,False,True
+22097,Uche,Ibekwe,1942-04-12,524278680,Abia,Umuahia North,Ward 2,342285876,575584232,1152621815,752245933,Pending,83,True,True,False,False,False,True
+40784,Obinna,Nwosu,1944-03-10,32003791769,Abia,Ohafia,Ward 4,579546681,614817842,1586938068,8376938983,Pending,81,True,True,False,False,False,True
+73517,Ifeoma,Ibekwe,1963-05-20,71434558122,Abia,Aba South,Ward 2,881447915,928540878,3320616329,9792703352,Pending,62,True,True,False,False,False,True
+71261,Emeka,Ndukwe,1947-05-28,80699016272,Abia,Aba North,Ward 4,206406362,180705119,2999119148,8487920698,Pending,78,True,True,False,False,False,True
+37742,Ada,Otti,1954-09-07,56464170805,Abia,Ohafia,Ward 1,580404538,349546199,5646799702,420439407,Pending,71,True,True,False,False,False,True
+25814,Ifeoma,Otti,1950-05-05,18233749894,Abia,Umuahia South,Ward 3,251079598,318520688,2798552414,8324826292,Pending,75,True,True,False,False,False,True
+57301,Emeka,Ibekwe,1950-03-16,8240084271,Abia,Isiala Ngwa North,Ward 3,608464061,736028516,602933334,5188125205,Pending,75,True,True,False,False,False,True
+72746,Ada,Otti,1961-01-20,20471167190,Abia,Umuahia South,Ward 3,957592370,249638768,6800722903,6647423122,Pending,65,True,True,False,False,False,True
+88385,Chinedu,Onyema,1943-08-10,59401399049,Abia,Umuahia South,Ward 4,572190436,791648731,6520744666,7573660965,Pending,82,True,True,False,False,False,True
+95394,Ada,Ibekwe,1963-04-12,29671756551,Abia,Aba North,Ward 4,561901618,321099573,993538758,6999880817,Pending,62,True,True,False,False,False,True
+77952,Amaka,Ndukwe,1948-05-31,77034824771,Abia,Ohafia,Ward 2,832395540,223035620,2513534655,347644726,Pending,77,True,True,False,False,False,True
+92155,Ada,Obi,1954-03-16,9134316117,Abia,Ohafia,Ward 3,371820813,232863028,6760083505,644742123,Pending,71,True,True,False,False,False,True
+16028,Amaka,Okoro,1941-04-19,45562386922,Abia,Umuahia North,Ward 4,350814705,949472217,8300335421,940777809,Pending,84,True,True,False,False,False,True
+23022,Amaka,Obi,1956-04-08,50643171390,Abia,Aba North,Ward 2,572432043,668249203,4208737530,9952997877,Pending,69,True,True,False,False,False,True
+84000,Ifeoma,Eze,1945-08-25,83933529042,Abia,Isiala Ngwa North,Ward 3,457319431,673505733,119721811,2934301071,Pending,80,True,True,False,False,False,True
+68756,Amaka,Obi,1961-05-12,91783908470,Abia,Aba South,Ward 4,844595490,253651082,4556110022,3441448850,Pending,64,True,True,False,False,False,True
+64524,Ngozi,Otti,1957-11-19,65452711116,Abia,Ohafia,Ward 3,137709731,307640719,216979729,7608495880,Pending,68,True,True,False,False,False,True
+79531,Ifeoma,Onyema,1944-02-12,67525459910,Abia,Umuahia South,Ward 1,365047041,135213498,8900287721,8421503178,Pending,82,True,True,False,False,False,True
+95437,Ifeoma,Otti,1965-08-23,97820715182,Abia,Umuahia South,Ward 4,207944665,151939266,917798270,6629979545,Pending,60,True,True,False,False,False,True
+97833,Bright,Eze,1945-09-24,68505423573,Abia,Umuahia South,Ward 2,723415497,723512415,3465472269,2557701715,Pending,80,True,True,False,False,False,True
+46932,Uche,Obi,1960-09-16,86239240758,Abia,Ohafia,Ward 1,520477197,918291176,9968460810,6393827615,Pending,65,True,True,False,False,False,True
+14799,Ifeoma,Ibekwe,1951-05-13,50541566765,Abia,Aba South,Ward 4,423541287,854583306,9094798515,369656666,Pending,74,True,True,False,False,False,True
+82089,Bright,Ibekwe,1942-11-29,42258313237,Abia,Aba North,Ward 3,472593431,646918365,5811288013,97519712,Pending,83,True,True,False,False,False,True
+89516,Emeka,Otti,1955-04-05,55625881537,Abia,Aba North,Ward 4,705264936,337085688,7283268424,4429444019,Pending,70,True,True,False,False,False,True
+80345,Chinedu,Eze,1952-10-25,62456506098,Abia,Aba North,Ward 3,809816108,146510960,2223943129,3723950410,Pending,73,True,True,False,False,False,True
+80592,Obinna,Obi,1949-01-23,42199330833,Abia,Umuahia North,Ward 4,160472382,224001512,9427881658,7465421406,Pending,77,True,True,False,False,False,True
+71918,Ngozi,Umeh,1954-10-25,8267734540,Abia,Ohafia,Ward 2,381154698,526101858,392827229,6504427173,Pending,71,True,True,False,False,False,True
+14888,Emeka,Onyema,1964-01-02,20672400499,Abia,Aba North,Ward 3,954021618,960530322,9275037314,9627128639,Pending,62,True,True,False,False,False,True
+81989,Ada,Obi,1958-08-27,33918785191,Abia,Isiala Ngwa North,Ward 2,418019332,763607349,2318432225,158517432,Pending,67,True,True,False,False,False,True
+17897,Ngozi,Okafor,1964-04-10,4622656766,Abia,Ohafia,Ward 2,748870905,710021271,2809202428,1847870050,Pending,61,True,True,False,False,False,True
+74962,Chinedu,Otti,1964-12-07,68566246287,Abia,Umuahia South,Ward 3,629561415,251786915,2799088117,5651982530,Pending,61,True,True,False,False,False,True
+74044,Ada,Okafor,1951-07-18,25228728080,Abia,Ohafia,Ward 1,361917078,625200495,9594636887,6083318195,Pending,74,True,True,False,False,False,True
+79758,Bright,Onyema,1940-04-18,848408621,Abia,Isiala Ngwa North,Ward 2,422909911,916616920,2137213865,7722005436,Pending,85,True,True,False,False,False,True
+15577,Ifeoma,Nwosu,1963-09-10,97401489025,Abia,Umuahia South,Ward 2,690804839,245689489,6984902770,6353153136,Pending,62,True,True,False,False,False,True
+20084,Obinna,Umeh,1957-11-12,93968562185,Abia,Umuahia North,Ward 4,206179285,790665343,3843098839,3631797062,Pending,68,True,True,False,False,False,True
+50405,Ada,Otti,1940-03-26,41212678886,Abia,Umuahia North,Ward 1,670916578,924183605,8955439376,7762534929,Pending,85,True,True,False,False,False,True
+43913,Ifeoma,Obi,1944-06-03,88993756798,Abia,Aba North,Ward 1,197636744,742668415,1117908075,4649893195,Pending,81,True,True,False,False,False,True
+28528,Bright,Onyema,1956-09-29,69296627828,Abia,Aba South,Ward 3,966377394,502330059,3655647292,7116241124,Pending,69,True,True,False,False,False,True
+37767,Ada,Ibekwe,1959-04-10,54589297500,Abia,Ohafia,Ward 4,776742877,710085301,6112535544,5525782841,Pending,66,True,True,False,False,False,True
+26284,Emeka,Okafor,1940-09-23,70632424154,Abia,Aba North,Ward 2,698424036,770439175,9647598762,672752088,Pending,85,True,True,False,False,False,True
+55032,Ngozi,Onyema,1940-05-12,27136111554,Abia,Aba South,Ward 2,788839404,891967770,1178006811,7028140693,Pending,85,True,True,False,False,False,True
+11581,Amaka,Otti,1963-09-12,26965827109,Abia,Umuahia North,Ward 3,928299788,723214176,9688457831,5650455478,Pending,62,True,True,False,False,False,True
+25473,Chinedu,Otti,1952-01-21,64814917785,Abia,Aba South,Ward 2,936594930,938562244,6632663416,9232648704,Pending,74,True,True,False,False,False,True
+82465,Uche,Nwosu,1941-08-02,53654195180,Abia,Umuahia South,Ward 1,660355099,409255683,2241797497,4714627301,Pending,84,True,True,False,False,False,True
+77300,Chinedu,Ibekwe,1957-10-10,42067883171,Abia,Umuahia North,Ward 1,621669253,975866588,1474350313,5213283389,Pending,68,True,True,False,False,False,True
+39135,Emeka,Nwosu,1942-10-07,65199410137,Abia,Umuahia North,Ward 3,987059227,226960685,6502491630,8881671120,Pending,83,True,True,False,False,False,True
